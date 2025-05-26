@@ -81,9 +81,9 @@ All insights were derived using SQL queries on the `Supply_Chain` table:
 
 ---
 
-Supply-Chain-Dashboard/
-|
-├── 📁 PowerBI File/
-│ └── https://github.com/Rishinroy2000/Supply-Chain-Management-Dashboards/blob/main/Supply_Chain_Management_Dashboards.pbix
-│
-└── 📄 README.md
+## ⭐ How to Use
+
+1. Clone or download the repository  
+2. Open the `.pbix` file in Power BI Desktop  
+3. Explore dashboards and SQL queries  
+4. Use slicers and filters to analyze specific trends
