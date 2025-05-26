@@ -1,14 +1,23 @@
 
--- 1. Which Product Type generates the highest revenue?
-SELECT "Product type", SUM("Revenue generated") AS total_revenue
-FROM supply_chain_data
-GROUP BY "Product type"
-ORDER BY total_revenue DESC
+**1.** Which Product Type generates the highest revenue?
+
+````sql
+SELECT 
+       "Product type", SUM("Revenue generated") AS total_revenue
+FROM 
+        supply_chain_data
+GROUP BY 
+        "Product type"
+ORDER BY 
+        total_revenue DESC
 LIMIT 1;
--- Result:
--- Product type | total_revenue
--- -------------|-------------------
--- skincare | 241,628.16
+````
+
+**Results:**
+    
+Product type | total_revenue|
+-------------|--------------|
+skincare     |    241,628.16|
 
 
 -- 2. Are there any significant correlations between Lead times and Order quantities?
