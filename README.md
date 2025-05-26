@@ -84,6 +84,6 @@ All insights were derived using SQL queries on the `Supply_Chain` table:
 ## ⭐ How to Use
 
 1. Clone or download the repository  
-2. Open the `.pbix` file in Power BI Desktop  
-3. Explore dashboards and SQL queries  
-4. Use slicers and filters to analyze specific trends
+2. Open the `.pbix` file in Power BI Desktop to explore dashboards
+3. Use slicers and filters to analyze specific trends
+4. Open the `.sql` file in a SQL tool to run the SQL queries
