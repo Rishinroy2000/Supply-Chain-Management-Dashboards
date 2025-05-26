@@ -77,6 +77,13 @@ All insights were derived using SQL queries on the `Supply_Chain` table:
 - 🖼️ [Product Performance Dashboard Screenshot](https://github.com/Rishinroy2000/Supply-Chain-Management-Dashboards/blob/main/product%20performance%20ss.png)  
 - 🖼️ [Supply Chain Efficiency Dashboard Screenshot](https://github.com/Rishinroy2000/Supply-Chain-Management-Dashboards/blob/main/Supply%20chain%20efficiency%20ss.png)  
 - 🖼️ [Customer Demographics Dashboard Screenshot](https://github.com/Rishinroy2000/Supply-Chain-Management-Dashboards/blob/main/Customer%20demographics%20ss.png)  
-- 📸 [SQL Query Results (Screenshots PDF)](https://github.com/Rishinroy2000/Supply-Chain-Management-Dashboards/blob/main/SQL%20Query%20Analysis.pdf)  
+- 📸 [SQL Query Results (Screenshots PDF)](https://github.com/Rishinroy2000/Supply-Chain-Management-Dashboards/blob/main/SQL%20Query%20Analysis.pdf)
 
+---
 
+Supply-Chain-Dashboard/
+|
+├── 📁 PowerBI File/
+│ └── https://github.com/Rishinroy2000/Supply-Chain-Management-Dashboards/blob/main/Supply_Chain_Management_Dashboards.pbix
+│
+└── 📄 README.md
