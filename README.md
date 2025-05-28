@@ -87,7 +87,7 @@ All insights were derived using SQL queries on the `Supply_Chain` table:
   
 - 📸 **Supply Chain Efficiency Dashboard**
 
-   ![Supply Chain Efficiency Dashboard Screenshot]()
+   ![Supply Chain Efficiency Dashboard Screenshot](https://github.com/Rishinroy2000/Supply_Chain_Management_Dashboards/blob/main/Supply%20chain%20efficiency%20ss.png)
  
 - 📸 **Customer Demographics Dashboard**
   
