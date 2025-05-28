@@ -83,7 +83,7 @@ All insights were derived using SQL queries on the `Supply_Chain` table:
 
 - 📸 **Product Performance Dashboard**
   
-   ![Product Performance Dashboard Screenshot]()
+   ![Product Performance Dashboard Screenshot](https://github.com/Rishinroy2000/Supply_Chain_Management_Dashboards/blob/main/product%20performance%20ss.png)
   
 - 📸 **Supply Chain Efficiency Dashboard**
 
